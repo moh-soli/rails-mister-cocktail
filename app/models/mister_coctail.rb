@@ -1,2 +1,0 @@
-class MisterCoctail < ApplicationRecord
-end
